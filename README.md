@@ -1,2 +1,2 @@
-# sitema-vendas
+# sistema-vendas
 sistema vendas html
